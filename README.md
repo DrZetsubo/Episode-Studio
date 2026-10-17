@@ -12,7 +12,3 @@ Episode Studio is an Obsidian plugin for writing and organizing episodic stories
 - Add sound effects (SFX) to panels.
 - Automatically save edits to episode Markdown files.
 - Rename and renumber episode files when episodes are deleted.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
