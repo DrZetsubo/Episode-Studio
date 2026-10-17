@@ -1,0 +1,9 @@
+{
+  "id": "episode-studio",
+  "name": "Episode Studio",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Create and manage numbered episodes with an inline webtoon panel script editor.",
+  "author": "Dr. Zetsubo",
+  "isDesktopOnly": false
+}
